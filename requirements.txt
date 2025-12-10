@@ -1,0 +1,8 @@
+fastapi 
+uvicorn 
+pdfplumber 
+redis
+gunicorn
+jwt
+python-multipart
+sentence-transformers
